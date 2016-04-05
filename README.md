@@ -6,8 +6,8 @@ A bot that tweets about plotly.js using the
 
 ## How to run this thing?
 
-- `git` clone this repo
-- cd into it
+- `git clone` this repo
+- `cd` into it
 - `npm i`
 - fill in the `./creds.json` with the [@plotly_js](https://twitter.com/plotly_js) twitter
   [credentials](https://apps.twitter.com/)
