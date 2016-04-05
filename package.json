@@ -1,0 +1,29 @@
+{
+  "name": "plotly.js-twitter-bot",
+  "version": "1.0.0",
+  "description": "A bot that tweets about plotly.js ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etpinard/plotly.js-twitter-bot.git"
+  },
+  "keywords": [
+    "plotly",
+    "plotly.js",
+    "twitter",
+    "bot"
+  ],
+  "author": "Étienne Tétreault-Pinard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etpinard/plotly.js-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/etpinard/plotly.js-twitter-bot#readme",
+  "dependencies": {
+    "github": "^0.2.4",
+    "twitter": "^1.2.5"
+  }
+}
